@@ -15,8 +15,8 @@ Post-pruning (also known as cost-complexity pruning) is a technique where the de
 - Pandas
 - Matplotlib
 - Seaborn
-- 
-## 🧠 Key Features
+  
+  ## 🧠 Key Features
 
 - Trains a Decision Tree Regressor on a dataset.
 - Uses **cost complexity pruning (`ccp_alpha`)** to prune the tree.
